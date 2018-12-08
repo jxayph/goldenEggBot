@@ -1,0 +1,8 @@
+----
+TODO:
+ low priority
+ - User profiles
+	- FC, number of 9's, highest eggs/wave, highest eggs/game.
+ 
+ 
+ ---
